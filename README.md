@@ -1,11 +1,35 @@
 # Hi 👋, I'm Harsh Panigrahi
 
-**I'm an undergrad with a keeninterest in Linux-based infrastructure, backend development, and systems programming. Working near the system layer and comprehending how software interacts with the operating system, hardware, and networks is something I enjoy.
 
-I have practical experience using Python (Flask, Django) and C and C++ programming to create backend applications. **
+```txt
+$ neofetch zelo
 
-![GitHub Breakout](./output/github-breakout-dark.svg)
+███████╗███████╗██╗      ██████╗
+╚══███╔╝██╔════╝██║     ██╔═══██╗
+  ███╔╝ █████╗  ██║     ██║   ██║
+ ███╔╝  ██╔══╝  ██║     ██║   ██║
+███████╗███████╗███████╗╚██████╔╝
+╚══════╝╚══════╝╚══════╝ ╚═════╝
 
+zelo@linux
+----------
+OS: arch
+Shell: zsh
+Focus: backend • systems
+Langs: python | ts | c | c++ | rust
+```
+
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/IamZelo/IamZelo/refs/heads/github-breakout/images/breakout-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/IamZelo/IamZelo/refs/heads/github-breakout/images/breakout-light.svg">
+    <img alt="Breakout Game"
+      src="https://raw.githubusercontent.com/cyprieng/cyprieng/refs/heads/github-breakout/images/breakout-light.svg">
+  </picture>
+</div>
 
 ## Tech Stack
 
