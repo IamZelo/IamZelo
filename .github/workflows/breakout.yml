@@ -20,7 +20,7 @@ jobs:
         uses: cyprieng/github-breakout@v1
         with:
           github_username: ${{ github.repository_owner }}
-          enable_ghost_bricks: false
+          enable_ghost_bricks: true
 
       - name: Move generated SVGs to temp
         run: |
